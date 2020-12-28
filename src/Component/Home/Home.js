@@ -5,7 +5,7 @@ import gem from './gem.svg';
 import bubble from "./image/bubble.png";
 export default class Home extends Component {
   linkCopy = () => {
-    navigator.clipboard.writeText("Link of website");
+    navigator.clipboard.writeText("http://adventure-555.github.io/AdventureWorld");
     alert("Link is Copy to your Clipboard");
   };
 

@@ -17,7 +17,7 @@ export default class App extends Component {
       <div>
            <Router>
         <Header/>
-        <Route path="/" exact component={Welcome} />
+        <Route path="/AdventureWorld" exact component={Welcome} />
           <Route path="/Home"   component={Home}/>
           <Route path="/Video"  component={Video}/>
           <Route path="/Description"  component={Description}/>
