@@ -1,0 +1,48 @@
+.app-container{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url(aa.jpeg);
+}
+
+.app-h1{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%);
+    font-family: algerian;
+    letter-spacing: 3px;
+    font-size: 50px;
+}
+.app-links{
+    position: absolute;
+    top: 185px;
+    left: 50%;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+.app-links a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.app-links img{
+ width:50px;
+}
+.app-links a:hover{
+    color: white;
+    mix-blend-mode: overlay;
+}
+
+.app-links h1{
+    color: white;
+}
+.app-links ul{
+    color: white;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,49 @@
+.description-container{
+    background: url(background.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.links-container{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+.links-container a{
+    text-decoration: none;
+    color: white;
+    font-family: Colonna MT;
+    font-size: 55px;
+    letter-spacing: 5px;
+}
+.links-container a:hover{
+  color: rgba(255, 255, 255, 0.144);
+}
+
+.links-container h1{ 
+    font-size: 95px;
+    font-family: Colonna MT;
+}
+
+@media screen and (max-width:500px){
+    .links-container a{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width:345px){
+    .links-container a{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:300px){
+    .links-container a{
+        font-size: 20px;
+    }
+}
+
+
+

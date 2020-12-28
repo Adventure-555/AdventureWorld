@@ -1,0 +1,39 @@
+.other-container {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-image: url(ee.jpg);
+}
+
+.other-h1 {
+  font-family: Algerian;
+  letter-spacing: 3px;
+  text-align: center;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 50px;
+  color: white;
+  mix-blend-mode: overlay;
+}
+
+.of-h1{
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 30px;
+  color: white;
+  mix-blend-mode: overlay;
+}
+
+@media screen and (max-width:325px){
+  other-h1 {
+    font-size: 40px !important;
+  }
+}
