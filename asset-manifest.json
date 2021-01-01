@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AdventureWorld/static/css/main.c9d3cc1e.chunk.css",
-    "main.js": "/AdventureWorld/static/js/main.72438f83.chunk.js",
-    "main.js.map": "/AdventureWorld/static/js/main.72438f83.chunk.js.map",
+    "main.css": "/AdventureWorld/static/css/main.d72192be.chunk.css",
+    "main.js": "/AdventureWorld/static/js/main.e7feb758.chunk.js",
+    "main.js.map": "/AdventureWorld/static/js/main.e7feb758.chunk.js.map",
     "runtime-main.js": "/AdventureWorld/static/js/runtime-main.8b82ef99.js",
     "runtime-main.js.map": "/AdventureWorld/static/js/runtime-main.8b82ef99.js.map",
     "static/js/2.1ff8bcd3.chunk.js": "/AdventureWorld/static/js/2.1ff8bcd3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.42e36d17.chunk.js": "/AdventureWorld/static/js/3.42e36d17.chunk.js",
     "static/js/3.42e36d17.chunk.js.map": "/AdventureWorld/static/js/3.42e36d17.chunk.js.map",
     "index.html": "/AdventureWorld/index.html",
-    "static/css/main.c9d3cc1e.chunk.css.map": "/AdventureWorld/static/css/main.c9d3cc1e.chunk.css.map",
+    "static/css/main.d72192be.chunk.css.map": "/AdventureWorld/static/css/main.d72192be.chunk.css.map",
     "static/js/2.1ff8bcd3.chunk.js.LICENSE.txt": "/AdventureWorld/static/js/2.1ff8bcd3.chunk.js.LICENSE.txt",
     "static/media/a.b747ad69.png": "/AdventureWorld/static/media/a.b747ad69.png",
     "static/media/Appsection.css": "/AdventureWorld/static/media/aa.9f001081.jpeg",
@@ -18,6 +18,7 @@
     "static/media/Home.css": "/AdventureWorld/static/media/background.562a615e.png",
     "static/media/Description.css": "/AdventureWorld/static/media/background.ae30bfa9.jpg",
     "static/media/Links.css": "/AdventureWorld/static/media/bg.af0e7d61.jpg",
+    "static/media/bgre.acb6ae6b.png": "/AdventureWorld/static/media/bgre.acb6ae6b.png",
     "static/media/bubble.5abfb2f4.png": "/AdventureWorld/static/media/bubble.5abfb2f4.png",
     "static/media/c.c08df236.jpg": "/AdventureWorld/static/media/c.c08df236.jpg",
     "static/media/codecss.1748640b.png": "/AdventureWorld/static/media/codecss.1748640b.png",
@@ -42,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.8b82ef99.js",
     "static/js/2.1ff8bcd3.chunk.js",
-    "static/css/main.c9d3cc1e.chunk.css",
-    "static/js/main.72438f83.chunk.js"
+    "static/css/main.d72192be.chunk.css",
+    "static/js/main.e7feb758.chunk.js"
   ]
 }
