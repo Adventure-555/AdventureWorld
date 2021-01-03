@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Home.css";
 // import share from './image/share.png';
 import gem from './gem.svg';
+// import bgre from './bgre.png';
 import bubble from "./image/bubble.png";
 export default class Home extends Component {
   linkCopy = () => {
@@ -40,6 +41,9 @@ export default class Home extends Component {
           {/* <img src={share} className="share" alt="share"/>
             <img src={fb} className="fb" alt="fb"/> */}
         </div>
+        {/* <div className="awlo">
+          <img src={bgre} alt="bgre"/>
+        </div> */}
         <div className="bubbles">
           <img src={bubble} alt="bubble" />
           <img src={bubble} alt="bubble" />

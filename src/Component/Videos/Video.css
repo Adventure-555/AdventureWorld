@@ -39,4 +39,16 @@ img {
   overflow: hidden;
   transition: 0.5s EASE-IN-OUT;
 }
+/* .awlo img{
+   margin-top: -0px; 
+  width: 120px;
+  padding: 70px;
+}
+@media screen and (max-width:900px){
+  .awlo img{
+       width: 30px;
+      padding: 20px; 
+     display: none; 
+  }
+}  */
 

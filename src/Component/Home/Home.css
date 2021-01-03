@@ -6,6 +6,16 @@
   height: 100vh;
   width: 100%;
 }
+/* .awlo img{
+  margin-top: -75px;
+  width: 120px;
+  padding: 70px;
+}
+@media screen and (max-width:900px){
+  .awlo img{
+    display: none;
+  }
+} */
 
 .h1-section {
   position: absolute;

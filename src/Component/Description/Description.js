@@ -1,12 +1,16 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import "./Description.css";
+// import bgre from './bgre.png';
 // import bubble from "./bubble.png";
 
 export default class Description extends Component {
   render() {
     return (
       <div className="description-container">
+         {/* <div className="awlo">
+          <img src={bgre} alt="bgre"/>
+        </div> */}
         <div className="links-container">
           <div className="link-one">
             <h1>

@@ -14,11 +14,30 @@ import l from "./YouTubeTh/l.jpg";
 import m from "./YouTubeTh/m.jpg";
 import n from "./YouTubeTh/n.jpg";
 import p from "./YouTubeTh/p.jpg";
+import q from "./YouTubeTh/q.jpg";
+import r from "./YouTubeTh/r.png";
+// import bgre from './bgre.png';
+// import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
 export default class Video extends Component {
   render() {
     return (
       <div className="video-container">
+        {/* <div className="awlo">
+          <img src={bgre} alt="bgre"/>
+        </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/bF2VugKjLmo"><img src={r} alt="r"/></a>
+          </div>
+          <h1>Css Animation How to Create Loading Page with Html & Css</h1>
+        </div>
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/qebqPlF8Lts"><img src={q} alt="q"/></a>
+          </div>
+          <h1>I Create a WebSite</h1>
+        </div>
          <div className="section-container">
             <div className="image-container">
               <a href="https://youtu.be/V_r9-TR6X6U">
@@ -141,7 +160,7 @@ export default class Video extends Component {
                 <img src={a} alt="a" />
               </a>
             </div>
-            <h1>How to Download Davanci resolve 6</h1>
+            <h1>How to Download Davanci resolve-16</h1>
           </div>
         </div>
     );
