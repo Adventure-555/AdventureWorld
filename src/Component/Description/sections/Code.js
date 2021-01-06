@@ -52,22 +52,22 @@ export default class Code extends Component {
         <div className="code-links">
           <ul type="square">
             <li>
-              <a href="https://drive.google.com/file/d/1S3SOS0lqGqdxnUZG8i8t2Nt6uHzou-vC/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1S3SOS0lqGqdxnUZG8i8t2Nt6uHzou-vC/view?usp=sharing"  target="_blank">
                 Html Basic Tags
               </a>
             </li>
             <li>
-              <a href="https://drive.google.com/file/d/10qWgrQgUiQJH-7X3QzQfXyxhdDk55N9N/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/10qWgrQgUiQJH-7X3QzQfXyxhdDk55N9N/view?usp=sharing"  target="_blank">
                 WebPage-#1 Html
               </a>
             </li>
             <li>
-              <a href="https://drive.google.com/file/d/1xBRC1A97kwjPO-yZRrGDq7A8mOCKpnw1/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1xBRC1A97kwjPO-yZRrGDq7A8mOCKpnw1/view?usp=sharing"  target="_blank">
                 WebPage-#1 Css
               </a>
             </li>
             <li>
-              <a href={codehtml}>
+              <a href={codehtml}  target="_blank">
                 Animation 1# Html
                 <br/>
                 <button
@@ -80,7 +80,7 @@ export default class Code extends Component {
             </li>
             <br/>
             <li>
-              <a href={codecss}>
+              <a href={codecss}  target="_blank">
                 Animation 1# Css
                 <br/>
                 <button

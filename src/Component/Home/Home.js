@@ -24,6 +24,7 @@ export default class Home extends Component {
           </h1>
           <a
             href="https://youtube.com/channel/UCh2MhM9BlGVIDu7vdph1H2g"
+            target="_blank"
             className="youtube"
           >
             <h1>
@@ -32,6 +33,7 @@ export default class Home extends Component {
           </a>
           <a
             href="https://www.facebook.com/adhnan.shereef"
+            target="_blank"
             className="facebook"
           >
             <h1>

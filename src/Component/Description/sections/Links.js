@@ -9,10 +9,11 @@ export default class Links extends Component {
         <div className="link-a">
           <ul type="square">
             <li>
-              <a href="https://www.google.com/earth/">Google Earth Web</a>
+              <a href="https://www.google.com/earth/"  target="_blank">Google Earth Web</a>
             </li>
             <li>
-              <a href="https://www.altium.com/altium-trial-flow?utm_source=youtube&utm_medium=social&utm_campaign=yt-">
+              <a href="https://www.altium.com/altium-trial-flow?utm_source=youtube&utm_medium=social&utm_campaign=yt-"
+               target="_blank">
                 Pcb Desing Website
               </a>
             </li>

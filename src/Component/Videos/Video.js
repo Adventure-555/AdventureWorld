@@ -28,19 +28,19 @@ export default class Video extends Component {
         </div> */}
         <div className="section-container">
           <div className="image-container">
-            <a href="https://youtu.be/bF2VugKjLmo"><img src={r} alt="r"/></a>
+            <a href="https://youtu.be/bF2VugKjLmo"  target="_blank"><img src={r} alt="r"/></a>
           </div>
           <h1>Css Animation How to Create Loading Page with Html & Css</h1>
         </div>
         <div className="section-container">
           <div className="image-container">
-            <a href="https://youtu.be/qebqPlF8Lts"><img src={q} alt="q"/></a>
+            <a href="https://youtu.be/qebqPlF8Lts"  target="_blank"><img src={q} alt="q"/></a>
           </div>
           <h1>I Create a WebSite</h1>
         </div>
          <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/V_r9-TR6X6U">
+              <a href="https://youtu.be/V_r9-TR6X6U"  target="_blank">
                 <img src={p} alt="p" />
               </a>
             </div>
@@ -48,7 +48,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/yhNN7D7jWpw">
+              <a href="https://youtu.be/yhNN7D7jWpw"  target="_blank">
                 <img src={n} alt="n" />
               </a>
             </div>
@@ -56,7 +56,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/LNNnKFMvKOc">
+              <a href="https://youtu.be/LNNnKFMvKOc"  target="_blank">
                 <img src={m} alt="m" />
               </a>
             </div>
@@ -65,7 +65,7 @@ export default class Video extends Component {
         {/* 1 */}
         <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/g3WhWVimNMA">
+              <a href="https://youtu.be/g3WhWVimNMA"  target="_blank">
                 <img src={l} alt="l" />
               </a>
             </div>
@@ -73,7 +73,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/qQrw_SfxL5I">
+              <a href="https://youtu.be/qQrw_SfxL5I"  target="_blank">
                 <img src={k} alt="k" />
               </a>
             </div>
@@ -81,7 +81,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/IrVNPjzgtFs">
+              <a href="https://youtu.be/IrVNPjzgtFs"  target="_blank">
                 <img src={j} alt="j" />
               </a>
             </div>
@@ -89,7 +89,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/bVyv8TtFlLU">
+              <a href="https://youtu.be/bVyv8TtFlLU"  target="_blank">
                 <img src={i} alt="i" />
               </a>
             </div>
@@ -98,7 +98,7 @@ export default class Video extends Component {
         {/* 2 */}
         <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/cDZR0lkeHVs">
+              <a href="https://youtu.be/cDZR0lkeHVs"  target="_blank">
                 <img src={h} alt="h" />
               </a>
             </div>
@@ -106,7 +106,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/_7P1KAa6Zuk">
+              <a href="https://youtu.be/_7P1KAa6Zuk"  target="_blank">
                 <img src={g} alt="g" />
               </a>
             </div>
@@ -114,7 +114,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/GK8ctoW-8TQ">
+              <a href="https://youtu.be/GK8ctoW-8TQ"  target="_blank">
                 <img src={f} alt="f" />
               </a>
             </div>
@@ -122,7 +122,8 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/-iBd0Go6NF0">
+              <a href="https://youtu.be/-iBd0Go6NF0"
+               target="_blank">
                 <img src={e} alt="e" />
               </a>
             </div>
@@ -132,7 +133,8 @@ export default class Video extends Component {
         {/* 4 */}
         <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/XpIWg966BSk">
+              <a href="https://youtu.be/XpIWg966BSk"
+               target="_blank">
                 <img src={d} alt="d" />
               </a>
             </div>
@@ -140,7 +142,8 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/jTtvH-utTOI">
+              <a href="https://youtu.be/jTtvH-utTOI"
+               target="_blank">
                 <img src={c} alt="c" />
               </a>
             </div>
@@ -148,7 +151,8 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/GiwnRDM4y48">
+              <a href="https://youtu.be/GiwnRDM4y48"
+               target="_blank">
                 <img src={b} alt="b" />
               </a>
             </div>
@@ -156,7 +160,7 @@ export default class Video extends Component {
           </div>
           <div className="section-container">
             <div className="image-container">
-              <a href="https://youtu.be/0VAgKSs6W5E">
+              <a href="https://youtu.be/0VAgKSs6W5E" target="_blank">
                 <img src={a} alt="a" />
               </a>
             </div>
