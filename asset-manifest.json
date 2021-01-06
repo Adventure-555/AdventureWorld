@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AdventureWorld/static/css/main.b432b8fc.chunk.css",
-    "main.js": "/AdventureWorld/static/js/main.44bafded.chunk.js",
-    "main.js.map": "/AdventureWorld/static/js/main.44bafded.chunk.js.map",
+    "main.js": "/AdventureWorld/static/js/main.b9d1a1bd.chunk.js",
+    "main.js.map": "/AdventureWorld/static/js/main.b9d1a1bd.chunk.js.map",
     "runtime-main.js": "/AdventureWorld/static/js/runtime-main.8b82ef99.js",
     "runtime-main.js.map": "/AdventureWorld/static/js/runtime-main.8b82ef99.js.map",
     "static/js/2.1ff8bcd3.chunk.js": "/AdventureWorld/static/js/2.1ff8bcd3.chunk.js",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.8b82ef99.js",
     "static/js/2.1ff8bcd3.chunk.js",
     "static/css/main.b432b8fc.chunk.css",
-    "static/js/main.44bafded.chunk.js"
+    "static/js/main.b9d1a1bd.chunk.js"
   ]
 }
