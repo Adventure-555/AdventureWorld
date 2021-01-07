@@ -16,6 +16,7 @@ import n from "./YouTubeTh/n.jpg";
 import p from "./YouTubeTh/p.jpg";
 import q from "./YouTubeTh/q.jpg";
 import r from "./YouTubeTh/r.png";
+import s from "./YouTubeTh/s.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -26,6 +27,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://www.youtube.com/channel/UCh2MhM9BlGVIDu7vdph1H2g"  target="_blank"><img src={s} alt="s"/></a>
+          </div>
+          <h1>Comming Soon</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/bF2VugKjLmo"  target="_blank"><img src={r} alt="r"/></a>
