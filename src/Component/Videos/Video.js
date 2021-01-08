@@ -29,9 +29,9 @@ export default class Video extends Component {
         </div> */}
         <div className="section-container">
           <div className="image-container">
-            <a href="https://www.youtube.com/channel/UCh2MhM9BlGVIDu7vdph1H2g"  target="_blank"><img src={s} alt="s"/></a>
+            <a href="https://youtu.be/HcrA2iGRx40"  target="_blank"><img src={s} alt="s"/></a>
           </div>
-          <h1>Comming Soon</h1>
+          <h1>What is React/React introduction/How to Install React/React tutorial-1/</h1>
         </div>
         <div className="section-container">
           <div className="image-container">
