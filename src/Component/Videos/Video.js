@@ -17,6 +17,7 @@ import p from "./YouTubeTh/p.jpg";
 import q from "./YouTubeTh/q.jpg";
 import r from "./YouTubeTh/r.png";
 import s from "./YouTubeTh/s.png";
+import t from "./YouTubeTh/t.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -27,6 +28,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/HP_jrGbim_Y"  target="_blank"><img src={t} alt="t"/></a>
+          </div>
+          <h1>What is React/React File Structure/Basic Components/React tutorial-2</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/HcrA2iGRx40"  target="_blank"><img src={s} alt="s"/></a>
