@@ -1,9 +1,11 @@
 import React, { Component } from "react";
-import codehtml from "./codehtml.png";
-import codecss from "./codecss.png";
-import todoappjs from "./todoappjs.png";
-import todoappcssone from "./todoappcssone.png";
-import todoappcsstwo from "./todoappcsstwo.png";
+import codehtml from "./items/codehtml.png";
+import codecss from "./items/codecss.png";
+import todoappjsone from "./items/todoappjsone.png";
+import todoappjstwo from "./items/todoappjstwo.png";
+import todoappcssone from "./items/todoappcssone.png";
+import todoappcsstwo from "./items/todoappcsstwo.png";
+import todoappcssthree from "./items/todoappcssthree.png";
 import "./Code.css";
 
 export default class Code extends Component {
@@ -50,27 +52,65 @@ export default class Code extends Component {
   };
   todoAppJs = () => {
     navigator.clipboard.writeText(`
-    import React, { Component } from 'react'
-import "./TodoApp.css"
+    import React, { Component } from "react";
+import "./TodoApp.css";
 
 export default class TodoApp extends Component {
-    render() {
-        return (
-           <div className="todo-container">
-               <form className="input-section">
-                   <h1>TodoApp</h1>
-                   <input type="text"
-                   placeholder="Enter items ......."/>
-               </form>
-               <ul>
-                   <li>
-                       items
-                   </li>
-               </ul>
-           </div>
-        )
+    state = {
+        input: "",
+        items: [],
+        selectedItems: false,
     }
-}`);
+
+    handleChange = event =>{
+        this.setState({
+          input: event.target.value
+        });
+      };
+    storeItems = event =>{
+        event.preventDefault();
+        const {input} = this.state;
+        
+    
+        this.setState({
+          items: [...this.state.items,input],
+          input: ""
+        });
+      }
+      deleteItems= key =>{
+          const allItems = this.state.items
+
+          allItems.splice(key,1)
+
+          this.setState({
+              items: allItems
+          })
+      }
+  render() {
+    const { input, items }=this.state;
+    return (
+      <div className="todo-container">
+        <form className="input-section" onSubmit={this.storeItems}>
+          <h1>TodoApp</h1>
+          <input type="text"
+            value= {input}
+            onChange={this.handleChange}
+            placeholder="Enter items ......."
+          />
+        </form>
+        <ul>
+         {items.map((data,index)=>(
+              <li key={index}>
+                  {data}
+              <i class="fas fa-trash-alt" onClick={()=>this.deleteItems(index)}></i>
+            </li>
+         ))}
+        </ul>
+      </div>
+    );
+  }
+}
+`);
     alert("Js code was Copy to Your Clipbord");
   };
   todoAppCss=()=>{
@@ -128,13 +168,24 @@ export default class TodoApp extends Component {
       color: #08869e;
       box-shadow: 0px 4px 6px #02313b;
       display: flex;
+  }
+  
+  ul li i{
+      text-align: right;
+      flex: 1;
+      cursor: pointer;
+  }
+  
+  ul li i:hover{
+      color: #23a3bd;
   }`)
   alert("Css code was Copy to your Clipboard")
   }
   render() {
     return (
       <div className="code-container">
-        <h1 className="code-h1">Codes</h1>
+       <div className="code-onesection">
+       <h1 className="code-h1">Codes</h1>
         <div className="code-links">
           <ul type="square">
             <li>
@@ -182,14 +233,22 @@ export default class TodoApp extends Component {
             </li>
             <br />
             <li>
-              <a href={todoappjs} target="_blank">
-                TodoApp js
+              <a href={todoappjsone}>TodoApp js Functions</a>
+              <a href={todoappjstwo} target="_blank">
+                TodoApp js Basic codes
                 <br />
                 <button className="animation" onClick={this.todoAppJs}>
                   Copy
                 </button>
               </a>
             </li>
+            </ul>
+        </div>
+       </div>
+       {/* = */}
+      <div className="code-twosection">
+        <div className="code-link">
+        <ul type="square">
             <li>
               <a href={todoappcssone} target="_blank">
                 TodoApp Css file Section 1
@@ -197,14 +256,19 @@ export default class TodoApp extends Component {
               <br />
               <a href={todoappcsstwo} target="_blank">
                 TodoApp Css file Section 2
+              </a>
+              <br />
+              <a href={todoappcssthree} target="_blank">
+                TodoApp Css file Section 3
                 <br />
-                <button className="animation" onClick={this.todoAppCss}>
+                <button className="animation-two" onClick={this.todoAppCss}>
                   Copy
                 </button>
               </a>
             </li>
           </ul>
         </div>
+      </div>
       </div>
     );
   }

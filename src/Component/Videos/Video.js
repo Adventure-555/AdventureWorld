@@ -19,6 +19,7 @@ import r from "./YouTubeTh/r.png";
 import s from "./YouTubeTh/s.png";
 import t from "./YouTubeTh/t.png";
 import u from "./YouTubeTh/u.png";
+import v from "./YouTubeTh/v.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -29,6 +30,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/fa77KvKg5Hs"  target="_blank"><img src={v} alt="v"/></a>
+          </div>
+          <h1>How to Create TodoApp With React/Functioning & Adding Trash bin/</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/EVjELxth3fQ"  target="_blank"><img src={u} alt="u"/></a>

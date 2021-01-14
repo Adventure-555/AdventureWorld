@@ -23,6 +23,18 @@ export default class Links extends Component {
                 Node js Download
               </a>
             </li>
+            <li>
+              <a href="https://cdnjs.com/libraries/font-awesome"
+               target="_blank">
+                Font Awesome Cdn
+              </a>
+            </li>
+            <li>
+              <a href="https://fontawesome.com/"
+               target="_blank">
+                Font Awesome
+              </a>
+            </li>
           </ul>
         </div>
       </div>

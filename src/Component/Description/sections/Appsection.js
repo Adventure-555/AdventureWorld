@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Appsection.css";
-import logo from "./logo.svg";
+import logo from "./items/logo.svg";
 
 export default class Appsection extends Component {
   render() {
