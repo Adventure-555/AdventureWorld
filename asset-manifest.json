@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AdventureWorld/static/css/main.148d218b.chunk.css",
-    "main.js": "/AdventureWorld/static/js/main.908399c4.chunk.js",
-    "main.js.map": "/AdventureWorld/static/js/main.908399c4.chunk.js.map",
+    "main.css": "/AdventureWorld/static/css/main.cb75b0b8.chunk.css",
+    "main.js": "/AdventureWorld/static/js/main.cfa634b1.chunk.js",
+    "main.js.map": "/AdventureWorld/static/js/main.cfa634b1.chunk.js.map",
     "runtime-main.js": "/AdventureWorld/static/js/runtime-main.8b82ef99.js",
     "runtime-main.js.map": "/AdventureWorld/static/js/runtime-main.8b82ef99.js.map",
     "static/js/2.1ff8bcd3.chunk.js": "/AdventureWorld/static/js/2.1ff8bcd3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.42e36d17.chunk.js": "/AdventureWorld/static/js/3.42e36d17.chunk.js",
     "static/js/3.42e36d17.chunk.js.map": "/AdventureWorld/static/js/3.42e36d17.chunk.js.map",
     "index.html": "/AdventureWorld/index.html",
-    "static/css/main.148d218b.chunk.css.map": "/AdventureWorld/static/css/main.148d218b.chunk.css.map",
+    "static/css/main.cb75b0b8.chunk.css.map": "/AdventureWorld/static/css/main.cb75b0b8.chunk.css.map",
     "static/js/2.1ff8bcd3.chunk.js.LICENSE.txt": "/AdventureWorld/static/js/2.1ff8bcd3.chunk.js.LICENSE.txt",
     "static/media/a.b747ad69.png": "/AdventureWorld/static/media/a.b747ad69.png",
     "static/media/Appsection.css": "/AdventureWorld/static/media/aa.9f001081.jpeg",
@@ -23,6 +23,7 @@
     "static/media/codecss.1748640b.png": "/AdventureWorld/static/media/codecss.1748640b.png",
     "static/media/codehtml.0aa87da8.png": "/AdventureWorld/static/media/codehtml.0aa87da8.png",
     "static/media/d.85bba17d.jpg": "/AdventureWorld/static/media/d.85bba17d.jpg",
+    "static/media/Code.css": "/AdventureWorld/static/media/wa.19910d9f.jpg",
     "static/media/e.a201b402.jpg": "/AdventureWorld/static/media/e.a201b402.jpg",
     "static/media/Otherfile.css": "/AdventureWorld/static/media/ee.4fab32df.jpg",
     "static/media/f.a3f41bce.jpg": "/AdventureWorld/static/media/f.a3f41bce.jpg",
@@ -39,16 +40,18 @@
     "static/media/r.e2052273.png": "/AdventureWorld/static/media/r.e2052273.png",
     "static/media/s.a86c007a.png": "/AdventureWorld/static/media/s.a86c007a.png",
     "static/media/t.d1d1a36d.png": "/AdventureWorld/static/media/t.d1d1a36d.png",
-    "static/media/todoappcssone.d1829f44.png": "/AdventureWorld/static/media/todoappcssone.d1829f44.png",
-    "static/media/todoappcsstwo.707434cd.png": "/AdventureWorld/static/media/todoappcsstwo.707434cd.png",
-    "static/media/todoappjs.db145efa.png": "/AdventureWorld/static/media/todoappjs.db145efa.png",
+    "static/media/todoappcssone.4c47a626.png": "/AdventureWorld/static/media/todoappcssone.4c47a626.png",
+    "static/media/todoappcssthree.e51341c9.png": "/AdventureWorld/static/media/todoappcssthree.e51341c9.png",
+    "static/media/todoappcsstwo.a695888d.png": "/AdventureWorld/static/media/todoappcsstwo.a695888d.png",
+    "static/media/todoappjsone.00b1ca1a.png": "/AdventureWorld/static/media/todoappjsone.00b1ca1a.png",
+    "static/media/todoappjstwo.59ccd927.png": "/AdventureWorld/static/media/todoappjstwo.59ccd927.png",
     "static/media/u.c7a3759f.png": "/AdventureWorld/static/media/u.c7a3759f.png",
-    "static/media/Code.css": "/AdventureWorld/static/media/wa.19910d9f.jpg"
+    "static/media/v.21be55d7.png": "/AdventureWorld/static/media/v.21be55d7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b82ef99.js",
     "static/js/2.1ff8bcd3.chunk.js",
-    "static/css/main.148d218b.chunk.css",
-    "static/js/main.908399c4.chunk.js"
+    "static/css/main.cb75b0b8.chunk.css",
+    "static/js/main.cfa634b1.chunk.js"
   ]
 }
