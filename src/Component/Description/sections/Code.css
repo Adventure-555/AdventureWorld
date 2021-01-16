@@ -56,7 +56,7 @@
 /* = */
 .code-link{
     position: absolute;
-    top: 700px;
+    top: 120%;
     left: 50%;
     transform: translate(-50%);
     cursor: pointer;
@@ -64,6 +64,7 @@
 .code-link a{
     text-decoration: none;
     color: black;
+    mix-blend-mode: overlay;
     margin-bottom: 25px;
 }
 

@@ -20,6 +20,7 @@ import s from "./YouTubeTh/s.png";
 import t from "./YouTubeTh/t.png";
 import u from "./YouTubeTh/u.png";
 import v from "./YouTubeTh/v.png";
+import w from "./YouTubeTh/w.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -30,6 +31,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/U264BqSV96w"  target="_blank"><img src={w} alt="w"/></a>
+          </div>
+          <h1>What is React Router/ How To Route Pages with React Router</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/fa77KvKg5Hs"  target="_blank"><img src={v} alt="v"/></a>
