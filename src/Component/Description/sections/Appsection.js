@@ -33,6 +33,9 @@ export default class Appsection extends Component {
                 Google Find Your Device
               </a>
             </li>
+            <li>
+              <a href="https://obsproject.com/">Obs Studio</a>
+            </li>
           </ul>
         </div>
       </div>

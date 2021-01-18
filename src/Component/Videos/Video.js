@@ -21,6 +21,7 @@ import t from "./YouTubeTh/t.png";
 import u from "./YouTubeTh/u.png";
 import v from "./YouTubeTh/v.png";
 import w from "./YouTubeTh/w.png";
+import x from "./YouTubeTh/x.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -31,6 +32,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/hry_tV6gVOI"  target="_blank"><img src={x} alt="x"/></a>
+          </div>
+          <h1>How to Record Screen in Pc or Computer/Inni ithokke Enth/Adventure World Malayalam/</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/U264BqSV96w"  target="_blank"><img src={w} alt="w"/></a>
