@@ -22,6 +22,7 @@ import u from "./YouTubeTh/u.png";
 import v from "./YouTubeTh/v.png";
 import w from "./YouTubeTh/w.png";
 import x from "./YouTubeTh/x.png";
+import y from "./YouTubeTh/y.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -32,6 +33,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/NKgAPEnTQvo"  target="_blank"><img src={y} alt="y"/></a>
+          </div>
+          <h1>How to Upload a Video in YouTube/How to Edit it/</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/hry_tV6gVOI"  target="_blank"><img src={x} alt="x"/></a>

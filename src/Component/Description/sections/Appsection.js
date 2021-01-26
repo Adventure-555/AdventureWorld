@@ -34,7 +34,7 @@ export default class Appsection extends Component {
               </a>
             </li>
             <li>
-              <a href="https://obsproject.com/">Obs Studio</a>
+              <a href="https://obsproject.com/" target="_blank">Obs Studio</a>
             </li>
           </ul>
         </div>
