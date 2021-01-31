@@ -36,6 +36,9 @@ export default class Appsection extends Component {
             <li>
               <a href="https://obsproject.com/" target="_blank">Obs Studio</a>
             </li>
+            <li>
+              <a href="https://play.google.com/store/apps/details?id=com.canva.editor" target="_blank">Canva Application</a>
+            </li>
           </ul>
         </div>
       </div>

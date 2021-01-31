@@ -24,6 +24,7 @@ import w from "./YouTubeTh/w.png";
 import x from "./YouTubeTh/x.png";
 import y from "./YouTubeTh/y.png";
 import z from "./YouTubeTh/z.png";
+import aa from "./YouTubeTh/aa.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -34,6 +35,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/iLY7gYyB_os"  target="_blank"><img src={aa} alt="aa"/></a>
+          </div>
+          <h1>How to Edit Thumbnail for YouTube/with Canva/Adventure World Malayalam</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/ys-Oapa9nz4"  target="_blank"><img src={z} alt="z"/></a>

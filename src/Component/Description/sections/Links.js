@@ -35,6 +35,9 @@ export default class Links extends Component {
                 Font Awesome
               </a>
             </li>
+            <li>
+              <a href="https://www.canva.com/" target="_blank">Canva Web</a>
+            </li>
           </ul>
         </div>
       </div>
