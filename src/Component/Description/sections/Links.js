@@ -38,6 +38,9 @@ export default class Links extends Component {
             <li>
               <a href="https://www.canva.com/" target="_blank">Canva Web</a>
             </li>
+            <li>
+              <a href="https://github.com/Genymobile/scrcpy" target="_blank">SCRCPY</a>
+            </li>
           </ul>
         </div>
       </div>
