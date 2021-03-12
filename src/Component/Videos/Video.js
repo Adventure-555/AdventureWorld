@@ -27,6 +27,7 @@ import z from "./YouTubeTh/z.png";
 import aa from "./YouTubeTh/aa.png";
 import ab from "./YouTubeTh/ab.png";
 import ac from "./YouTubeTh/ac.png";
+import ad from "./YouTubeTh/ad.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -39,9 +40,15 @@ export default class Video extends Component {
         </div> */}
         <div className="section-container">
           <div className="image-container">
+            <a href="https://youtu.be/H0ozTk--97E"  target="_blank"><img src={ad} alt="ad"/></a>
+          </div>
+          <h1>How to Download YouTube Videos to Gallery on Mobile</h1>
+        </div>
+        <div className="section-container">
+          <div className="image-container">
             <a href="https://youtu.be/tK_mrPchjjQ"  target="_blank"><img src={ac} alt="ac"/></a>
           </div>
-          <h1>How to Download YouTube Video For Free/Best YouTube Video Downloader</h1>
+          <h1>How to Download YouTube Video For Free/Best YouTube Video Downloader On Pc </h1>
         </div>
         <div className="section-container">
           <div className="image-container">
