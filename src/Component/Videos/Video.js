@@ -28,6 +28,7 @@ import aa from "./YouTubeTh/aa.png";
 import ab from "./YouTubeTh/ab.png";
 import ac from "./YouTubeTh/ac.png";
 import ad from "./YouTubeTh/ad.png";
+import ae from "./YouTubeTh/ae.png";
 // import bgre from './bgre.png';
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
@@ -38,6 +39,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtube.com/channel/UCh2MhM9BlGVIDu7vdph1H2g"  target="_blank"><img src={ae} alt="ae"/></a>
+          </div>
+          <h1>Comming Soon</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/H0ozTk--97E"  target="_blank"><img src={ad} alt="ad"/></a>
@@ -56,12 +63,7 @@ export default class Video extends Component {
           </div>
           <h1>How to Mirror Mobile Screen Into Pc/Without any App & No Elgato/With Scrcp</h1>
         </div>
-        <div className="section-container">
-          <div className="image-container">
-            <a href="https://youtu.be/sq4HaAUY74Y"  target="_blank"><img src={ab} alt="ab"/></a>
-          </div>
-          <h1>How to Mirror Mobile Screen Into Pc/Without any App & No Elgato/With Scrcp</h1>
-        </div>
+       
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/iLY7gYyB_os"  target="_blank"><img src={aa} alt="aa"/></a>

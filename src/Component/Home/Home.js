@@ -1,12 +1,14 @@
 import React, { Component } from "react";
 import "./Home.css";
 // import share from './image/share.png';
-import gem from './gem.svg';
+import gem from "./gem.svg";
 // import bgre from './bgre.png';
 import bubble from "./image/bubble.png";
 export default class Home extends Component {
   linkCopy = () => {
-    navigator.clipboard.writeText("http://adventure-555.github.io/AdventureWorld");
+    navigator.clipboard.writeText(
+      "http://adventure-555.github.io/AdventureWorld"
+    );
     alert("Link is Copy to your Clipboard");
   };
 
@@ -15,7 +17,7 @@ export default class Home extends Component {
       <div className="home-container">
         <div className="h1-section">
           <h1>
-           <img src={gem} alt="gem" /> Welcome to <br /> Adventure World
+            <img src={gem} alt="gem" /> Welcome to <br /> Adventure World
           </h1>
         </div>
         <div className="link-section">
@@ -32,7 +34,7 @@ export default class Home extends Component {
             </h1>
           </a>
           <a
-            href="https://www.facebook.com/adhnan.shereef"
+            href="https://www.facebook.com/Adhnan.shereef.T/"
             target="_blank"
             className="facebook"
           >
