@@ -41,6 +41,9 @@ export default class Links extends Component {
             <li>
               <a href="https://github.com/Genymobile/scrcpy" target="_blank">SCRCPY</a>
             </li>
+            <li>
+              <a href="https://www.digitbin.com/mod-kinemaster-apk-download/" target="_blank">KineMaster Mod Apk</a>
+            </li>
           </ul>
         </div>
       </div>

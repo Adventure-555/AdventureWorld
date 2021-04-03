@@ -40,9 +40,9 @@ export default class Video extends Component {
         </div> */}
         <div className="section-container">
           <div className="image-container">
-            <a href="https://youtube.com/channel/UCh2MhM9BlGVIDu7vdph1H2g"  target="_blank"><img src={ae} alt="ae"/></a>
+            <a href="https://youtu.be/hNGt-6dq4JM"  target="_blank"><img src={ae} alt="ae"/></a>
           </div>
-          <h1>Comming Soon</h1>
+          <h1>How to Download KineMaster Mod Apk For Free/ No WaterMark Full Unlocked/100% Work</h1>
         </div>
         <div className="section-container">
           <div className="image-container">
