@@ -20,7 +20,7 @@ export default class Appsection extends Component {
             <li>
               <a href="https://notepad-plus-plus.org/downloads/"  target="_blank">
                 {" "}
-                <img src={logo} alt="logo" width="30px" /> NotePad++
+                {/* <img src={logo} alt="logo" width="30px" />*/} NotePad++ 
               </a>
             </li>
             <li>
@@ -38,6 +38,12 @@ export default class Appsection extends Component {
             </li>
             <li>
               <a href="https://play.google.com/store/apps/details?id=com.canva.editor" target="_blank">Canva Application</a>
+            </li>
+            <li>
+              <a href="https://www.movavi.com/adv/videoeditorplus-buy/?gclid=CjwKCAjw07qDBhBxEiwA6pPbHvtIW35d9zEigBD-cc37UqIAfksN3MjKGjnYQXy6un-Z60zKbx7yjBoCdqgQAvD_BwE" target="_blank">Movavi Video Editor</a>
+            </li>
+            <li>
+              <a href="https://drive.google.com/file/d/1-o7IjyLommwjs1qqLCJEugkYD5C6UGJs/view" target="_blank">Movavi Video Editor Crack</a>
             </li>
           </ul>
         </div>

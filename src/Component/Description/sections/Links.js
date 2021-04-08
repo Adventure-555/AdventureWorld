@@ -44,6 +44,9 @@ export default class Links extends Component {
             <li>
               <a href="https://www.digitbin.com/mod-kinemaster-apk-download/" target="_blank">KineMaster Mod Apk</a>
             </li>
+            <li>
+              <a href="https://www.win-rar.com/download.html?&L=0" target="_blank">WinRaR</a>
+            </li>
           </ul>
         </div>
       </div>

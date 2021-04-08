@@ -29,6 +29,7 @@ import ab from "./YouTubeTh/ab.png";
 import ac from "./YouTubeTh/ac.png";
 import ad from "./YouTubeTh/ad.png";
 import ae from "./YouTubeTh/ae.png";
+import af from "./YouTubeTh/af.png";
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
 export default class Video extends Component {
@@ -38,6 +39,12 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/4m0J146rtEE"  target="_blank"><img src={af} alt="af"/></a>
+          </div>
+          <h1>Best Video Editor For Low End Pc/How to Crack Movavi Video Editor</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/hNGt-6dq4JM"  target="_blank"><img src={ae} alt="ae"/></a>
