@@ -1,0 +1,64 @@
+.pack{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 155px;
+}
+
+.packs-description{
+    padding-bottom: 100px;
+}
+
+.packs-description a{
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    letter-spacing: 3px;
+}
+
+.packs{
+    width: 95%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.packs-box{
+    padding-bottom: 55px;
+}
+
+.packs-content{
+    border-radius: 55px;
+    border: 1px solid cyan;
+    padding: 25px;
+}
+
+.packs-header h3{
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight: bold;
+    font-size: 25px;
+    /* border-bottom: 3px solid cyan; */
+}
+
+.packs-tle p{
+    color: cyan;
+    padding: 10px;
+}
+
+.packs-links ul li{
+    list-style: none;
+}
+.packs-links ul li a{
+    text-decoration: none;
+    color: rgb(0, 255, 136);
+}
+
+.packs-code-copy{
+    border-radius: 15px;
+    background: none;
+    border: 2px solid white;
+    padding: 10px;
+    width: 100px;
+    margin: 10px;
+}

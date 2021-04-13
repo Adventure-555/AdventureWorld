@@ -19,8 +19,7 @@ export default class Appsection extends Component {
             </li>
             <li>
               <a href="https://notepad-plus-plus.org/downloads/"  target="_blank">
-                {" "}
-                {/* <img src={logo} alt="logo" width="30px" />*/} NotePad++ 
+                NotePad++ 
               </a>
             </li>
             <li>

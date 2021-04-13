@@ -4,6 +4,7 @@ import Home from "./Component/Home/Home";
 import Video from "./Component/Videos/Video";
 import {BrowserRouter as Router, Route } from "react-router-dom";
 import Welcome from "./Component/Welcome/Welcome";
+import packs from "./Component/packs/packs";
 import Description from "./Component/Description/Description";
 import Links from "./Component/Description/sections/Links";
 import Code from "./Component/Description/sections/Code";
@@ -20,6 +21,7 @@ export default class App extends Component {
         <Route path="/AdventureWorld" exact component={Welcome} />
           <Route path="/Home"   component={Home}/>
           <Route path="/Video"  component={Video}/>
+          <Route path="/packs"  component={packs}/>
           <Route path="/Description"  component={Description}/>
           <Route path="/Links" component={Links}/>
           <Route path="/Code" component={Code}/>

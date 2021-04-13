@@ -3,6 +3,9 @@ body{
     padding: 0px;
 }
 
+::-webkit-scrollbar{
+    width: 0px;
+  }            
 
 header{
     /* border-bottom: 1px solid rgba(255, 255, 255, 0.445); */

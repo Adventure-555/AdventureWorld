@@ -10,7 +10,7 @@ export default class Header extends Component {
         <Link to="/" className="hide" >.</Link>
         <Link to="/Home">Home</Link>
         <Link to="/Video" className="video">Videos</Link>
-        <Link to="/Description">Description</Link>
+        <Link to="/packs">Packs</Link>
       </header>
     );
   }
