@@ -30,6 +30,8 @@ import ac from "./YouTubeTh/ac.png";
 import ad from "./YouTubeTh/ad.png";
 import ae from "./YouTubeTh/ae.png";
 import af from "./YouTubeTh/af.png";
+import ag from "./YouTubeTh/ag.png";
+import ah from "./YouTubeTh/ah.png";
 // import comingsoon from "./YouTubeTh/comingsoon.png";
 import "./Video.css";
 export default class Video extends Component {
@@ -39,6 +41,18 @@ export default class Video extends Component {
         {/* <div className="awlo">
           <img src={bgre} alt="bgre"/>
         </div> */}
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/mMhBQ2qo_bM"  target="_blank"><img src={ah} alt="ah"/></a>
+          </div>
+          <h1>Google Secret Properties/ Google Tips & Tricks</h1>
+        </div>
+        <div className="section-container">
+          <div className="image-container">
+            <a href="https://youtu.be/yex6Jycb3Bs"  target="_blank"><img src={ag} alt="ag"/></a>
+          </div>
+          <h1>New Change In My Website/ I Added Packs In Website</h1>
+        </div>
         <div className="section-container">
           <div className="image-container">
             <a href="https://youtu.be/4m0J146rtEE"  target="_blank"><img src={af} alt="af"/></a>
