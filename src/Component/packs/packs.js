@@ -194,14 +194,12 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                Best Video Editor For Low End Pc/How to Crack Movavi Video
-                Editor <i class="fas fa-angle-down"></i>
+                Best Video Editor For Low End Pc <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
                 Best Video Editor For Low End Pc/How to Crack Movavi Video
-                EditorBest Video Editor For Low End Pc/How to Crack Movavi Video
                 Editor
               </p>
             </div>
@@ -239,15 +237,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Download KineMaster Mod Apk For Free/ No WaterMark Full
-                Unlocked/100% Work <i class="fas fa-angle-down"></i>
+                How to Download KineMaster Mod Apk For Free<i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
                 How to Download KineMaster Mod Apk For Free/ No WaterMark Full
-                Unlocked/100% WorkHow to Download KineMaster Mod Apk For Free/
-                No WaterMark Full Unlocked/100% Work
+                Unlocked/100% Work
               </p>
             </div>
             <div className="packs-links">
@@ -268,14 +264,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Mirror Mobile Screen Into Pc/Without any App & No
-                Elgato/With Scrcp <i class="fas fa-angle-down"></i>
+                How to Mirror Mobile Screen Into Pc <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Mirror Mobile Screen Into Pc/Without any App & No
+                Elgato/With Scrcp
               </p>
             </div>
             <div className="packs-links">
@@ -296,14 +291,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Edit Thumbnail for YouTube/with Canva/Adventure World
-                Malayalam <i class="fas fa-angle-down"></i>
+                How to Edit Thumbnail for YouTube <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Edit Thumbnail for YouTube/with Canva/Adventure World
+                Malayalam 
               </p>
             </div>
             <div className="packs-links">
@@ -329,14 +323,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Record Screen in Pc or Computer/Inni ithokke
-                Enth/Adventure World Malayalam <i class="fas fa-angle-down"></i>
+                How to Record Screen in Pc or Computer<i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Record Screen in Pc or Computer/Inni ithokke
+                Enth/Adventure World Malayalam 
               </p>
             </div>
             <div className="packs-links">
@@ -354,14 +347,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Create TodoApp With React/Functioning & Adding Trash bin/{" "}
+                How to Create TodoApp With React
                 <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Create TodoApp With React/Functioning & Adding Trash bin
               </p>
             </div>
             <div className="packs-links">
@@ -412,14 +404,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                How to Create TodoApp With React/Basic Contents & Styling{" "}
+                How to Create TodoApp With React
                 <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+                H How to Create TodoApp With React/Basic Contents & Styling
               </p>
             </div>
             <div className="packs-links">
@@ -466,14 +457,13 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-                What is React/React introduction/How to Install React/React
-                tutorial-1/ <i class="fas fa-angle-down"></i>
+                What is React <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              What is React/React introduction/How to Install React/React
+                tutorial-1/ 
               </p>
             </div>
             <div className="packs-links">
@@ -499,13 +489,12 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-              Css Animation How to Create Loading Page with Html & Css<i class="fas fa-angle-down"></i>
+              Css Animation <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              Css Animation How to Create Loading Page with Html & Css
               </p>
             </div>
             <div className="packs-links">
@@ -545,13 +534,12 @@ export default class packs extends Component {
          <div className="packs-content">
             <div className="packs-header">
               <h3>
-              How to Make WebSite With Html And Css <i class="fas fa-angle-down"></i>
+              How to Make WebSite  <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Make WebSite With Html And Css 
               </p>
             </div>
             <div className="packs-links">
@@ -593,8 +581,7 @@ export default class packs extends Component {
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+               Html Tutorial - 1/ Indroduction
               </p>
             </div>
             <div className="packs-links">
@@ -621,13 +608,12 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-              How to Design a Pcb <i class="fas fa-angle-down"></i>
+              Design a Pcb <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Design a Pcb / Indrodution
               </p>
             </div>
             <div className="packs-links">
@@ -651,8 +637,7 @@ export default class packs extends Component {
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to find Your Device with Google Find Your Device
               </p>
             </div>
             <div className="packs-links">
@@ -670,13 +655,12 @@ export default class packs extends Component {
           <div className="packs-content">
             <div className="packs-header">
               <h3>
-              What is google Earth <i class="fas fa-angle-down"></i>
+              google Earth <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+               What is Google Earth
               </p>
             </div>
             <div className="packs-links">
@@ -694,13 +678,12 @@ export default class packs extends Component {
          <div className="packs-content">
             <div className="packs-header">
               <h3>
-              How to Download Davanci resolve-16 <i class="fas fa-angle-down"></i>
+               Davanci resolve-16 <i class="fas fa-angle-down"></i>
               </h3>
             </div>
             <div className="packs-tle">
               <p>
-                How to Download YouTube Videos to Gallery on Mobile How to
-                Download YouTube Videos to Gallery on Mobile
+              How to Download Davanci resolve-16 / Best Video Editor for Free
               </p>
             </div>
             <div className="packs-links">
