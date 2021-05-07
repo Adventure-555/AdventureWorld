@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AdventureWorld/static/css/main.37bf54fe.chunk.css",
-    "main.js": "/AdventureWorld/static/js/main.d8c629e9.chunk.js",
-    "main.js.map": "/AdventureWorld/static/js/main.d8c629e9.chunk.js.map",
+    "main.css": "/AdventureWorld/static/css/main.c01516ec.chunk.css",
+    "main.js": "/AdventureWorld/static/js/main.4b60fe05.chunk.js",
+    "main.js.map": "/AdventureWorld/static/js/main.4b60fe05.chunk.js.map",
     "runtime-main.js": "/AdventureWorld/static/js/runtime-main.1e64ca96.js",
     "runtime-main.js.map": "/AdventureWorld/static/js/runtime-main.1e64ca96.js.map",
     "static/js/2.9bb07d85.chunk.js": "/AdventureWorld/static/js/2.9bb07d85.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ed04be41.chunk.js": "/AdventureWorld/static/js/3.ed04be41.chunk.js",
     "static/js/3.ed04be41.chunk.js.map": "/AdventureWorld/static/js/3.ed04be41.chunk.js.map",
     "index.html": "/AdventureWorld/index.html",
-    "static/css/main.37bf54fe.chunk.css.map": "/AdventureWorld/static/css/main.37bf54fe.chunk.css.map",
+    "static/css/main.c01516ec.chunk.css.map": "/AdventureWorld/static/css/main.c01516ec.chunk.css.map",
     "static/js/2.9bb07d85.chunk.js.LICENSE.txt": "/AdventureWorld/static/js/2.9bb07d85.chunk.js.LICENSE.txt",
     "static/media/a.b747ad69.png": "/AdventureWorld/static/media/a.b747ad69.png",
     "static/media/Appsection.css": "/AdventureWorld/static/media/aa.9f001081.jpeg",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.1e64ca96.js",
     "static/js/2.9bb07d85.chunk.js",
-    "static/css/main.37bf54fe.chunk.css",
-    "static/js/main.d8c629e9.chunk.js"
+    "static/css/main.c01516ec.chunk.css",
+    "static/js/main.4b60fe05.chunk.js"
   ]
 }
